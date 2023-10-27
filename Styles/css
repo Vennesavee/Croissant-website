@@ -9,14 +9,14 @@ h1,p{
 }
 a{
   color:green;
-  justify-content: space-between;
-  padding:20px;
- 
+  
 }
 footer{
   text-align: center;
   display:block;
   margin-top:20px;
   
- 
+}
+.footer-link{
+  padding:20px;
 }
