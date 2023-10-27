@@ -9,5 +9,10 @@ h1,p{
 }
 a{
   color:green;
+  
  
+}
+footer{
+  text-align: center;
+  display:block;
 }
